@@ -5,7 +5,7 @@
 The program allows the user to select any image containing biological cells. The program was tested on certival cells as input images.<br>
 The algorithm will segment the cells and the user can click on a cell to crop it out of the image and enlarge it.
 
-<img src="https://i.imgur.com/soTD0md.png" width="100%" height="100%"><br>
+<img src="https://i.imgur.com/iYTapQk.png" width="100%" height="100%"><br>
 
 ## The Algorithm
 The algorithm is broken up into 3 stages/sections. The pre-processing stage, the segmentation stage, and finally the image selection stage.
